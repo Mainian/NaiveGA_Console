@@ -1,1 +1,6 @@
 c:\users\kyle\documents\visual studio 2012\Projects\NaiveGA_Console\NaiveGA_Console\bin\Debug\NaiveGA_Console.exe.config
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\NaiveGA_Console\NaiveGA_Console\obj\Debug\NaiveGA_Console.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\NaiveGA_Console\NaiveGA_Console\bin\Debug\NaiveGA_Console.exe
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\NaiveGA_Console\NaiveGA_Console\bin\Debug\NaiveGA_Console.pdb
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\NaiveGA_Console\NaiveGA_Console\obj\Debug\NaiveGA_Console.exe
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\NaiveGA_Console\NaiveGA_Console\obj\Debug\NaiveGA_Console.pdb
